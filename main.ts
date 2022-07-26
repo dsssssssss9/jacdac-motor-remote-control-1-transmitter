@@ -1,3 +1,14 @@
+/**
+ * Jacdac Motor Remote Control Transmitter
+ * 
+ * Micro:Bit V2 & Jacadaptor
+ * 
+ * Uses 2 Jacdac Keycap Button modules and Jacdac Slide Potentiometer 
+ * 
+ * Buttons are used to transmit the desired direction of the Motor connected to the Receiver
+ * 
+ * Slider Potentiometer is used to send the desired motor seep to the Receiver
+ */
 // 
 // If Jacdac Button 1 is pressed down send 1 to receiver
 // 

@@ -1,4 +1,12 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="(vTZx.Xrd.i^zud@ooPo">Speed</variable></variables><block type="pxt-on-start" id="`MTz_MYN$m.V8cn=wD,=" collapsed="true" x="20" y="20"><comment pinned="false" h="80" w="160">Show Icon on Micro:Bit to show system is ready
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="(vTZx.Xrd.i^zud@ooPo">Speed</variable></variables><comment id="2JMG)?,7M2zX2j!vLH?A" x="211" y="293" h="246.46463012695312" w="567.6766967773438">Jacdac Motor Remote Control Transmitter
+
+Micro:Bit V2 &amp; Jacadaptor
+
+Uses 2 Jacdac Keycap Button modules and Jacdac Slide Potentiometer 
+
+Buttons are used to transmit the desired direction of the Motor connected to the Receiver
+
+Slider Potentiometer is used to send the desired motor seep to the Receiver </comment><block type="pxt-on-start" id="`MTz_MYN$m.V8cn=wD,=" collapsed="true" x="20" y="20"><comment pinned="false" h="80" w="160">Show Icon on Micro:Bit to show system is ready
 
 Set radio Group to match that of receiver
 
