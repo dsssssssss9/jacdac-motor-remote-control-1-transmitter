@@ -1,5 +1,5 @@
 input.onButtonPressed(Button.A, function () {
-    radio.sendNumber(5)
+    radio.sendNumber(randint(0, 9))
 })
 basic.showIcon(IconNames.Ghost)
 radio.setGroup(42)
