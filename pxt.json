@@ -5,7 +5,9 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "jacdac": "github:microsoft/pxt-jacdac#v1.8.16"
+        "jacdac": "github:microsoft/pxt-jacdac#v1.8.16",
+        "jacdac-button": "github:microsoft/pxt-jacdac/button#v1.8.16",
+        "jacdac-potentiometer": "github:microsoft/pxt-jacdac/potentiometer#v1.8.16"
     },
     "files": [
         "main.blocks",
