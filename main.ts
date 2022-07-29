@@ -30,9 +30,10 @@ modules.button2.onEvent(jacdac.ButtonEvent.Down, function () {
 // Set Variavle "Speed" to 0 - this is used to control the speed of the motor connected to the receiver
 // 
 // 
-basic.showIcon(IconNames.Ghost)
 radio.setGroup(42)
 let Speed = 0
+led.setBrightness(107)
+basic.showString("T")
 // Set Variable "Speed" to value of device used to control speed of motor.
 // 
 // Send this value via radio with a name of "Speed" 
